@@ -50,7 +50,7 @@ This interactive dashboard provides a comprehensive overview of sales and profit
 ### Key Insight:
 The analysis identified top-performing products, profitable regions, and sales trends that support strategic business decisions.
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](Sales Dashboard.png)
 
 ---
 
